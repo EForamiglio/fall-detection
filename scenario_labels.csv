@@ -1,0 +1,50 @@
+num,gt_label,scenario,csv_filename
+2,FALL,queda lado esquerdo,20260711_161720_teste_11_07_02.csv
+3,FALL,queda lado esquerdo,20260711_161823_teste_11_07_03.csv
+4,FALL,queda lado esquerdo,20260711_161920_teste_11_07_04.csv
+5,FALL,queda lado direito,20260711_162053_teste_11_07_05.csv
+6,FALL,queda lado direito,20260711_162300_teste_11_07_06.csv
+7,FALL,queda lado direito,20260711_162501_teste_11_07_07.csv
+8,FALL,de costas para camera - esquerdo,20260711_162729_teste_11_07_08.csv
+9,FALL,de costas para camera - esquerdo,20260711_163608_teste_11_07_09.csv
+10,FALL,de costas para camera - esquerdo,20260711_163844_teste_11_07_10.csv
+11,FALL,de costas para camera - direito,20260711_164028_teste_11_07_11.csv
+12,FALL,de costas para camera - direito,20260711_164232_teste_11_07_12.csv
+13,FALL,de costas para camera - direito,20260711_164352_teste_11_07_13.csv
+14,FALL,caindo de frente para camera,20260711_164725_teste_11_07_14.csv
+15,FALL,caindo de frente para camera,20260711_165211_teste_11_07_15.csv
+16,FALL,caindo de frente para camera,20260711_165351_teste_11_07_16.csv
+17,ADL,andando,20260711_165518_teste_11_07_17.csv
+18,ADL,andando,20260711_165851_teste_11_07_18.csv
+19,ADL,andando,20260711_170027_teste_11_07_19.csv
+20,ADL,andando,20260711_170314_teste_11_07_20.csv
+21,ADL,sentando,20260718_160600_teste_11_07_21.csv
+22,ADL,sentando,20260718_160731_teste_11_07_22.csv
+23,ADL,sentando,20260718_160950_teste_11_07_23.csv
+24,ADL,deitando,20260718_161310_teste_11_07_24.csv
+25,ADL,deitando,20260718_161438_teste_11_07_25.csv
+26,ADL,deitando,20260718_161611_teste_11_07_26.csv
+27,ADL,agachando (pegando do chao),20260718_161927_teste_11_07_27.csv
+28,ADL,agachando (pegando do chao),20260718_162007_teste_11_07_28.csv
+29,ADL,agachando (pegando do chao),20260718_162138_teste_11_07_29.csv
+30,ADL,agachando (pegando do banco),20260718_162247_teste_11_07_30.csv
+31,ADL,agachando (pegando do banco),20260718_162358_teste_11_07_31.csv
+32,ADL,agachando (pegando do banco),20260718_162540_teste_11_07_32.csv
+33,ADL,varrer,20260718_162838_teste_11_07_33.csv
+34,ADL,varrer,20260718_162941_teste_11_07_34.csv
+35,ADL,varrer,20260718_163228_teste_11_07_35.csv
+36,ADL,tomando banho,20260718_164352_teste_11_07_36.csv
+37,ADL,tomando banho,20260718_164628_teste_11_07_37.csv
+38,ADL,tomando banho,20260718_164906_teste_11_07_38.csv
+39,ADL,vestindo,20260718_165431_teste_11_07_39.csv
+40,ADL,vestindo,20260718_165615_teste_11_07_40.csv
+41,ADL,vestindo,20260718_165725_teste_11_07_41.csv
+42,ADL,abracar,20260718_165943_teste_11_07_42.csv
+43,ADL,abracar,20260718_170042_teste_11_07_43.csv
+44,ADL,abracar,20260718_170122_teste_11_07_44.csv
+45,ADL,duas pessoas andando,20260718_170320_teste_11_07_45.csv
+46,ADL,duas pessoas andando,20260718_170437_teste_11_07_46.csv
+47,ADL,duas pessoas andando,20260718_170636_teste_11_07_47.csv
+48,ADL,tropeco,20260718_170757_teste_11_07_48.csv
+49,ADL,tropeco,20260718_170841_teste_11_07_49.csv
+50,ADL,tropeco,20260718_170928_teste_11_07_50.csv
